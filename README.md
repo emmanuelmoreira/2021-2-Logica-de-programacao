@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/license/emmanuelmoreira/2021-2-Logica-de-programacao "/>
 
 # About
-Repositório dos códigos utilizados como exemplos na aula da disciplina de Lógica de Programção. Abaixo os tópicos estudados:
+Repositório dos códigos utilizados como exemplos na aula da disciplina de Lógica de Programação. Abaixo os tópicos estudados:
 * Programação Sequencial
 * Estrutura Condicional
   * if
