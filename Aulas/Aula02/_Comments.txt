@@ -1,0 +1,5 @@
+Os Programas são todos iguais, muda apneas o nome.
+
+Não esquecer que o nome do arquivo é com a primeira letra em maiúsculo.
+
+O nome do Arquivo deve ser o mesmo nome da classe
