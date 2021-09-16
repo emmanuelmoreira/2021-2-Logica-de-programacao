@@ -22,5 +22,6 @@ public class Exemplo1_Scanner {
         System.out.println("Idade " + idade );
         System.out.println("Peso: " + peso);
 
+
     }
 }
